@@ -1,18 +1,18 @@
-Financial Sentiment Analysis Tool
+-Financial Sentiment Analysis Tool-
 Automated insights from financial news to support smarter investment decisions
 
-About the Project
+-About the Project-
 This tool was designed to address a common challenge in finance: the overwhelming volume of daily news and the difficulty of extracting actionable insights quickly. By automating sentiment analysis and quality scoring, it helps analysts focus on what matters—making informed decisions faster.
 
-Why It Matters
+-Why It Matters-
 Financial analysts often spend 3–4 hours a day reviewing hundreds of articles. This manual process is:
 
-Slow and hard to scale
+-Slow and hard to scale-
 Subjective, leading to inconsistent interpretations
 Risk-prone, with critical signals buried in noise
 This project reduces that time to under 30 minutes while improving consistency and surfacing high-priority risks.
 
-What It Does
+-What It Does-
 Collects financial news via APIs
 Classifies sentiment (positive, negative, neutral) using finance-specific models
 Scores article quality to highlight actionable insights
@@ -77,4 +77,4 @@ Add your key to scripts/01_data_collection_v2.R
 Run the Tool
 
 About Me
-I'm Gabriel Paulino, a data analyst passionate about transforming complex data into clear, actionable insights. This project is part of my portfolio for internship applications at firms like Morgan Stanley, New York Life, and SMBC.
+I'm Gabriel Paulino, a data analyst passionate about transforming complex data into clear, actionable insights.
